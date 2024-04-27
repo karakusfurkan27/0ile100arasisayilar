@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "0ile100arasısayılar/1.0.0": {
+        "runtime": {
+          "0ile100arasısayılar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0ile100arasısayılar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Furkan\source\repos\0ile100arasısayılar\0ile100arasısayılar\bin\Debug\net8.0\0ile100arasısayılar.exe
+C:\Users\Furkan\source\repos\0ile100arasısayılar\0ile100arasısayılar\bin\Debug\net8.0\0ile100arasısayılar.deps.json
+C:\Users\Furkan\source\repos\0ile100arasısayılar\0ile100arasısayılar\bin\Debug\net8.0\0ile100arasısayılar.runtimeconfig.json
+C:\Users\Furkan\source\repos\0ile100arasısayılar\0ile100arasısayılar\bin\Debug\net8.0\0ile100arasısayılar.dll
+C:\Users\Furkan\source\repos\0ile100arasısayılar\0ile100arasısayılar\bin\Debug\net8.0\0ile100arasısayılar.pdb
+C:\Users\Furkan\source\repos\0ile100arasısayılar\0ile100arasısayılar\obj\Debug\net8.0\0ile100arasısayılar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\source\repos\0ile100arasısayılar\0ile100arasısayılar\obj\Debug\net8.0\0ile100arasısayılar.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\0ile100arasısayılar\0ile100arasısayılar\obj\Debug\net8.0\0ile100arasısayılar.AssemblyInfo.cs
+C:\Users\Furkan\source\repos\0ile100arasısayılar\0ile100arasısayılar\obj\Debug\net8.0\0ile100arasısayılar.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\0ile100arasısayılar\0ile100arasısayılar\obj\Debug\net8.0\0ile100arasısayılar.dll
+C:\Users\Furkan\source\repos\0ile100arasısayılar\0ile100arasısayılar\obj\Debug\net8.0\refint\0ile100arasısayılar.dll
+C:\Users\Furkan\source\repos\0ile100arasısayılar\0ile100arasısayılar\obj\Debug\net8.0\0ile100arasısayılar.pdb
+C:\Users\Furkan\source\repos\0ile100arasısayılar\0ile100arasısayılar\obj\Debug\net8.0\0ile100arasısayılar.genruntimeconfig.cache
+C:\Users\Furkan\source\repos\0ile100arasısayılar\0ile100arasısayılar\obj\Debug\net8.0\ref\0ile100arasısayılar.dll
